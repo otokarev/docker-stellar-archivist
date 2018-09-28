@@ -1,5 +1,5 @@
 # Stellar Archivist
-Docker image to run Stellar Archivist in cloud environment (GKE and others)
+Docker image to run [Stellar Archivist](https://github.com/stellar/go/tree/master/tools/stellar-archivist) in cloud environment (GKE and others)
 ## Usage example
 ### Kubernates' Job (GKE)
 #### Mirroring an archive
