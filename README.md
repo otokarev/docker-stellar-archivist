@@ -1,4 +1,10 @@
 # Stellar Archivist
+
+[![Docker Stars](https://img.shields.io/docker/stars/otokarev/stellar-archivist.svg)](https://hub.docker.com/r/otokarev/stellar-archivist/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/otokarev/stellar-archivist.svg)](https://hub.docker.com/r/otokarev/stellar-archivist/)
+[![Build Status](https://travis-ci.org/otokarev/docker-stellar-archivist.svg?branch=bare)](https://travis-ci.org/otokarev/docker-stellar-archivist/)
+[![ImageLayers](https://images.microbadger.com/badges/image/otokarev/stellar-archivist.svg)](https://microbadger.com/#/images/otokarev/stellar-archivist)
+
 Docker image to run [Stellar Archivist](https://github.com/stellar/go/tree/master/tools/stellar-archivist) in cloud environment (GKE and others)
 ## Usage example
 ### Kubernates' Job (GKE)
